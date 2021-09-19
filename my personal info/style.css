@@ -1,0 +1,19 @@
+body{
+    background-color:lightgreen;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}
+
+ul{
+    list-style-type: none;
+}
+
+li{
+ cursor: pointer;
+}
+
+.maindiv{
+    color: blue;
+}
